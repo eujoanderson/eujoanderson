@@ -1,4 +1,4 @@
-## Olá, Seja bem vindo!
+## Olá, Me chamo Joanderson e seja bem vindo ao meu GITHUB!
 <div align="center">
   <a href="https://github.com/eujoanderson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eujoanderson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
